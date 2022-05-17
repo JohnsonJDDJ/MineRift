@@ -1,0 +1,3 @@
+give @s minecraft:elytra{Unbreakable:1,display:{Name:"{\"text\":\"Wings\"}",Lore:["Take to the sky"]},AttributeModifiers:[{AttributeName:"generic.maxHealth",Name:"generic.maxHealth",Slot:"chest",Amount:-4,Operation:0,UUIDMost:38366,UUIDLeast:179006},{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Slot:"chest",Amount:4,Operation:0,UUIDMost:43660,UUIDLeast:183661},{AttributeName:"generic.armor",Name:"generic.armor",Slot:"chest",Amount:4,Operation:0,UUIDMost:81057,UUIDLeast:174358}]} 1
+
+effect give @s jump_boost 99999 2

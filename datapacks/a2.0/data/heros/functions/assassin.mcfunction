@@ -1,0 +1,3 @@
+give @s minecraft:splash_potion{display:{Name:"{\"text\":\"Swoosh\"}",Lore:["Hide & Seek"]},CustomPotionEffects:[{Id:1,Amplifier:2,Duration:100},{Id:14,Amplifier:1,Duration:100}],CustomPotionColor:15066597} 8
+
+give @s minecraft:shears{display:{Name:"{\"text\":\"Pocket Knife\"}",Lore:["Quick & Deadly"]},Enchantments:[{id:"minecraft:sharpness",lvl:6}],AttributeModifiers:[{AttributeName:"generic.movementSpeed",Name:"generic.movementSpeed",Slot:"mainhand",Amount:0.035,Operation:0,UUIDMost:90285,UUIDLeast:127789}]} 1

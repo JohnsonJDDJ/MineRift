@@ -1,0 +1,1 @@
+give @s minecraft:potion{display:{Name:"{\"text\":\"Charge\"}",Lore:["Portable Fountains"]},CustomPotionEffects:[{Id:1b,Amplifier:1b,Duration:140},{Id:2b,Amplifier:20b,Duration:100},{Id:9b,Amplifier:0b,Duration:160},{Id:10b,Amplifier:3b,Duration:120},{Id:15b,Amplifier:0b,Duration:100}],CustomPotionColor:262034} 4

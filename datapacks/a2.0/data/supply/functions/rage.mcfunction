@@ -1,0 +1,1 @@
+give @s minecraft:potion{display:{Name:"{\"text\":\"Heroine\"}"},CustomPotionColor:11927807,CustomPotionEffects:[{Id:1,Amplifier:5,Duration:160},{Id:5,Amplifier:1,Duration:140}]} 2
