@@ -6,7 +6,7 @@ This project is a [Minecraft](https://www.minecraft.com) minimap that imitates t
 
 Showcase video link: [YouTube](https://youtu.be/9akLPq117yI).
 
-Gallery: Visit my [website](https://zhihao.myxd.place)
+Gallery: Visit my [website](http://zhihao.myxd.place).
 
 ## Table of Content
 - [Install](#Install)
