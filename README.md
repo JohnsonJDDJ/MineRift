@@ -6,7 +6,7 @@ This project is a [Minecraft](https://www.minecraft.com) minimap that imitates t
 
 Showcase video link: [YouTube](https://youtu.be/9akLPq117yI).
 
-Gallery: Visit my [website](http://zhihao.myxd.place).
+Gallery: visit my [website](http://zhihao.myxd.place).
 
 ## Table of Content
 - [Install](#Install)
@@ -25,7 +25,9 @@ After unzipping, move the `MineRift` folder into your minecraft saves folder `mi
 
 Exectute the following in your terminal at `minecraft/saves/`:
 
-> git clone https://github.com/JohnsonJDDJ/MineRift.git
+```
+git clone https://github.com/JohnsonJDDJ/MineRift.git
+```
 
 ## Objective
 
