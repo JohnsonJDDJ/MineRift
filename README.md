@@ -7,6 +7,7 @@ This project is a [Minecraft](https://www.minecraft.com) minimap that imitates t
 Showcase video link: [YouTube](https://youtu.be/9akLPq117yI).
 
 ## Table of Content
+- [Install](#Install)
 - [Objective](#Objective)
 - [Heros](#Heros)
 
@@ -18,11 +19,11 @@ Download zip file from Google Drive: [link](https://drive.google.com/file/d/1-A5
 
 After unzipping, move the `MineRift` folder into your minecraft saves folder `minecraft/saves/`. Then, just lauch your game and you will see the map appearing in the list of your worlds. 
 
-## Option 2
+### Option 2
 
 Exectute the following in your terminal at `minecraft/saves/`:
 
-> git clone
+> git clone https://github.com/JohnsonJDDJ/MineRift.git
 
 ## Objective
 
@@ -44,5 +45,3 @@ Each `hero` have different weapons and abilities. Here is a very brief introduct
 - **Poseidon** the aquaman. Inspired by Aquanman (2018), Poseidon is the king of the ocean. His holy tridents, both upgradable from the `shop`, can be used as a projectile or a melee weapon. Poseidon literally have no weakness under the power of his holy tridents. 
 - **Wasteland** the boxer. This unusual `hero` is a restless fighter. Her weapoin is a literal cactus, but she feels no pain clenching it in her fists. Her helmet, covered in thorns, is absolutely unforgiving when you try to break it. 
 - **Priest** the healer. Priest has her power from the sky above. Her wand can heal her and her allies, while damaging opponents around her. But don't mistaken her from her name. She could upgrade her wand from the `shop` to become a absolute damage machine. Or, she could choose another path and upgraed her wand to make her allies all become near immortals.
-
-## 
